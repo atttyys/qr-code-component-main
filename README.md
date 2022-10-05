@@ -2,6 +2,9 @@
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
+## FINISH !!
+![Design preview for the QR code component coding challenge FINISH !](./finish/1440px.png)
+![Design preview for the QR code component coding challenge FINISH !](./finish/375px.png)
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
