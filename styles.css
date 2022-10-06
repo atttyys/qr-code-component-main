@@ -5,15 +5,15 @@ body{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    margin: 20px;
+    margin: 0.005rem;
   }
   .container{
     max-width: 20rem;
-    margin: 20px auto;
+    margin: 1.65rem auto;
   }
   .card{
     background: hsl(0, 0%, 100%);
-    padding: 1rem;
+    padding: 1.2rem;
     border-radius: 1.5rem;
     text-align: center;
     margin: 0 0.005rem;
@@ -30,7 +30,7 @@ body{
     padding-bottom: 0.05rem;
     font-size: 1.5rem;
   }
-  .text h2{
+  .text p{
     color:  hsl(220, 15%, 55%);
-    font-size: 1.05rem;
+    font-size: 0.9rem;
   }
